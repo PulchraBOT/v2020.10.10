@@ -1,0 +1,6 @@
+discord.py[voice]==1.4.1
+youtube_dl
+textblob
+numpy
+opencv-python
+sklearn
